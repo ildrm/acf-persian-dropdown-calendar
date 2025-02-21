@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: ACF Persian Dropdown Calendar
+Plugin Name: Persian Dropdown Calendar for Advanced Custom Fields
 Plugin URI: https://github.com/ildrm/acf-persian-dropdown-calendar
 Description: Persian Dropdown Calendar field for using with Advanced Custom Fields.
 Version: 1.0.0
-Author: Shahin Ilderemi
+Author: Shahin Ilderemi<ildrm@hotmail.com>
 Author URI: https://ildrm.com
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

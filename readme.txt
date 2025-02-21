@@ -1,5 +1,5 @@
-=== ACF Persian Dropdown Calendar ===
-Contributors: ildrm  
+=== Persian Dropdown Calendar for Advanced Custom Fields ===
+Contributors: msdildrm
 Tags: acf, persian calendar, dropdown, date picker  
 Requires at least: 4.7  
 Tested up to: 6.7  
@@ -36,11 +36,6 @@ This plugin is designed for ACF version 5 and above. It may work with older vers
 
 Yes, you can customize the appearance of the date field using custom CSS.  
 
-== Screenshots ==
-
-1. Persian date selection field in an ACF form  
-2. Displaying the selected date in the post editor  
-
 == Changelog ==
 
 = 1.0.0 =  
@@ -49,4 +44,4 @@ Yes, you can customize the appearance of the date field using custom CSS.
 == Upgrade Notice ==
 
 = 1.0.0 =  
-Initial release. Install this version to add a Persian dropdown date picker to ACF.  
+Initial release. Install this version to add a Persian dropdown date picker to ACF.
